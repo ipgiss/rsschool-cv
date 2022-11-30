@@ -43,6 +43,7 @@ I'm 44, live in Moscow. I work as a purchase manager at IT company and responsib
 
 <li> Russian</li>
 <li> English B2</li>
+
 ---
 
 ## All the best for everyone in your studies and hard work!
