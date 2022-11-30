@@ -1,2 +1,1 @@
-# rsschool-cv
-https://github.com/ipgiss/rsschool-cv/blob/gh-pages/cv.md
+https://ipgiss.github.io/rsschool-cv/cv
