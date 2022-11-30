@@ -26,7 +26,7 @@ I'm 44, live in Moscow. I work as a purchase manager at IT company and responsib
 
 ### Code example
 
-**under construction**
+`console.log("Hello, World!");`
 
 ---
 
