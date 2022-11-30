@@ -1,16 +1,17 @@
-
 ## Konstantin Kuznetsov
+
 ---
-### My contacts
-ipgiss@gmail.com
 
+### My contacts:
 
+<li> E-mail: ipgiss@gmail.com </li>
+<li> Phone/telegram: +7985-277-9873 </li>
+<li> Git: ipgiss </li>
+<li> City: Moscow, Almaty </li>
 
+---
 
-
-
------------------------------
-
+---
 
 Рекомендации EPAM HR department
 
