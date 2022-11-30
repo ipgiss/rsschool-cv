@@ -34,8 +34,9 @@ I'm 44, live in Moscow. I work as a purchase manager at IT company and responsib
 
 <li> SkyPro - QA</li>
 
-<li>Russian State University of Tourism and Service "RGUTiS"<ul>
-    <li>Facility of Management </li> </ul>
+<li>Russian State University of Tourism and Service "RGUTiS" <ul>
+    <li>Facility of Management </li> 
+</ul>
 
 ---
 
