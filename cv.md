@@ -11,15 +11,38 @@
 
 ---
 
+### About me
+
+I'm 44, live in Moscow. I work as a purchase manager at IT company and responsible for notebooks, printing and supplies. I recently completed the QA course at SkyPro school and now I plan to move forward to new knowledge. As a QA I need to know HTML, CSS, and JS well, which's why I came to this course. I hope this will help me for my future career.
+
+### Skills
+
+<li>JS - totaly newbie</li>
+<li>Postman REST API - good</li>
+<li> QA theory - well done </li>
+<li> Confluence, Jira - so good</li>
+
 ---
 
-Рекомендации EPAM HR department
+### Code example
 
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+**under construction**
+
+---
+
+### Education
+
+<li> SkyPro - QA</li>
+
+<li>Russian State University of Tourism and Service "RGUTiS"<ul>
+    <li>Facility of Management </li> </ul>
+
+---
+
+### Languages
+
+<li> Russian</li>
+<li> English B2</li>
+---
+
+## All the best for everyone in your studies and hard work!
