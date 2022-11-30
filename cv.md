@@ -6,7 +6,7 @@
 
 <li> E-mail: ipgiss@gmail.com </li>
 <li> Phone/telegram: +7985-277-9873 </li>
-<li> Git: ipgiss </li>
+<li> Git: <a href="https://github.com/ipgiss">ipgiss</a> </li>
 <li> City: Moscow </li>
 
 ---
@@ -47,4 +47,4 @@ I'm 44, live in Moscow. I work as a purchase manager at IT company and responsib
 
 ---
 
-## All the best for everyone in your studies and hard work!
+## All the best for everyone in your studies and have fun!
