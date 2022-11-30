@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ipgiss.github.io/rsschool-cv/cv
