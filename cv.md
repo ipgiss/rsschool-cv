@@ -42,9 +42,9 @@ I'm 45, live in Moscow. I work as a purchase manager at IT company and responsib
 
 ### Languages
 
-<li> Russian</li>
+<li> Russian native</li>
 <li> English B2</li>
 
 ---
 
-## All the best for everyone in your studies and have fun!
+### All the best for everyone in your studies and have fun!
