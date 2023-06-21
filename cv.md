@@ -13,7 +13,7 @@
 
 ### About me
 
-I'm 45, live in Moscow. I work as a purchase manager at IT company and responsible for purchase notebooks, printing and supplies. I recently completed the QA course at SkyPro school and now I plan to move forward to new knowledge. As a QA I need to know HTML, CSS, and JS well, which's why I came to this course. I hope this will help me for my future career.
+I'm 45, live in Moscow. I work as a purchase manager at IT company and responsible for purchase notebooks, printing and other supplies. Last year I completed the QA course at SkyPro school and now I plan to move forward to new knowledge. As a QA I need to know HTML/CSS and JS, which's why I came to this course. I hope this will help me for my future career.
 
 ### Skills
 
@@ -47,4 +47,4 @@ I'm 45, live in Moscow. I work as a purchase manager at IT company and responsib
 
 ---
 
-### All the best for everyone in your studies and have fun!
+### All the best for everyone in this Stage0 and have fun!
