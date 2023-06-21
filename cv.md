@@ -13,14 +13,14 @@
 
 ### About me
 
-I'm 44, live in Moscow. I work as a purchase manager at IT company and responsible for notebooks, printing and supplies. I recently completed the QA course at SkyPro school and now I plan to move forward to new knowledge. As a QA I need to know HTML, CSS, and JS well, which's why I came to this course. I hope this will help me for my future career.
+I'm 45, live in Moscow. I work as a purchase manager at IT company and responsible for purchase notebooks, printing and supplies. I recently completed the QA course at SkyPro school and now I plan to move forward to new knowledge. As a QA I need to know HTML, CSS, and JS well, which's why I came to this course. I hope this will help me for my future career.
 
 ### Skills
 
-<li>JS - totaly newbie</li>
-<li>Postman REST API - good</li>
+<li>JS - total newbie</li>
 <li> QA theory - well done </li>
 <li> Confluence, Jira - so good</li>
+<li>Postman REST API - good</li>
 
 ---
 
